@@ -6,11 +6,11 @@ The purpose of this application is to allow the user to place plans in the text 
 
 ### Gallery
 
-Start Page:
-![Start Page](./assets/start-view.jpg "Start Page")
+Main View:
+![Start Page](./assets/main-view.jpg "Start Page")
 
-Quiz Page:
-![Quiz Page](./assets/quiz-view.jpg "Quiz Page")
+Local Storage View:
+![Quiz Page](./assets/local-proof.jpg "Quiz Page")
 
 ### Problem
 
