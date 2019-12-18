@@ -46,4 +46,4 @@ Simply input text into the text feilds and click the save button if you want to 
 
 Link to example readme:
 
-
+https://braydon-nelson.github.io/05-Daily-Planner/
