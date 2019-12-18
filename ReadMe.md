@@ -14,11 +14,11 @@ Local Storage View:
 
 ### Problem
 
-Currently not saving infor to local storage...
+NOTHING!!!
 
 ### Solution
 
-My solution will to implement it to work with the buttons
+N/A!!!
 
 ## Tech and Features Used
 
