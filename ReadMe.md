@@ -7,10 +7,10 @@ The purpose of this application is to allow the user to place plans in the text 
 ### Gallery
 
 Main View:
-![Start Page](./assets/main-view.jpg "Start Page")
+![Start Page](./assets/imgs/main-view.jpg "Start Page")
 
 Local Storage View:
-![Quiz Page](./assets/local-proof.jpg "Quiz Page")
+![Quiz Page](./assets/imgs/local-proof.jpg "Quiz Page")
 
 ### Problem
 
