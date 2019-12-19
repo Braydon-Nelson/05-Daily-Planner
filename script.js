@@ -4,9 +4,12 @@ $(document).ready(function () {
 
     })
 
+
     function hoursUpdater() {
+        var currentDay = moment().day();
+        $("#currentDay").text(moment().format('dddd'));
+
         var currentHour = moment().hours();
-        console.log(currentHour);
 
         $(".time-block").each(function () {
 
